@@ -4,7 +4,8 @@
 1. **Coursera - Machine Learning by Andrew Ng:** \
 Taught by Dr. Andrew Ng, co-founder of Coursera and a leading AI researcher, this course is a great starting point. It covers the fundamentals of machine learning and is beginner-friendly.
 2. **Stanford University - CS229: Machine Learning:** \
-This is the course materials for the Stanford machine learning class taught by Andrew Ng. It's more in-depth than his Coursera course and includes lectures, assignments, and exams.
+This is the course materials for the Stanford machine learning class taught by Andrew Ng. It's more in-depth than his Coursera course and includes lectures, assignments, and exams. 
+Course Link: https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
 ## Deep Learning Courses:
 1. **Fast.ai - Practical Deep Learning for Coders:** \
