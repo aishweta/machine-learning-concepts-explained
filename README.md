@@ -1,4 +1,12 @@
 # How to Start ML journey??
+- Statistics
+- Machine Learning Concepts
+- Python coding
+- Data visualization & Data Manipulation
+- ML in practice
+- Data Science Projects
+
+Everything here - https://github.com/josephmisiti/awesome-machine-learning
 
 ## ML Courses:
 1. **Coursera - Machine Learning by Andrew Ng:** \
